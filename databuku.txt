@@ -1,0 +1,16 @@
+BK001|Buku Literasi 1|Novel|52000.00
+BK002|Buku Literasi 2|Komik|54000.00
+BK003|Buku Literasi 3|Teknologi|56000.00
+BK004|Buku Literasi 4|Sejarah|58000.00
+BK005|Buku Literasi 5|Pendidikan|60000.00
+BK006|Buku Literasi 6|Novel|62000.00
+BK007|Buku Literasi 7|Komik|64000.00
+BK008|Buku Literasi 8|Teknologi|66000.00
+BK009|Buku Literasi 9|Sejarah|68000.00
+BK010|Buku Literasi 10|Pendidikan|70000.00
+BK011|Buku Literasi 11|Novel|72000.00
+BK012|Buku Literasi 12|Komik|74000.00
+BK013|Buku Literasi 13|Teknologi|76000.00
+BK014|Buku Literasi 14|Sejarah|78000.00
+BK015|Buku Literasi 15|Pendidikan|80000.00
+BK016|Reynaldi|Edukasi|50000.00
